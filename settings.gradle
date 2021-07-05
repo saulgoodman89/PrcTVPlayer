@@ -1,0 +1,2 @@
+rootProject.name = "PrcTvPlayer"
+include ':app'
